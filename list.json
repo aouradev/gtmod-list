@@ -1,0 +1,32 @@
+{
+    "mary-poppins": {
+        "name": "Mary Poppins",
+        "ver": "v1.0.3",
+        "author": "meowscas",
+        "dlink": "https://github.com/meowscas/Marry-Poppins-PC/releases/download/v1/MarryPoppinsPatch.dll"
+    },
+    "comfymonke": {
+        "name": "ComfyMonke",
+        "ver": "v1.0.0",
+        "author": "gabora",
+        "dlink": "https://github.com/aouradev/comfy-monke/releases/download/1.0.0/ComfyMonke.dll"
+    },
+    "gorillacounter": {
+        "name": "GorillaCounter",
+        "ver": "v1.0.0",
+        "author": "TraqVR",
+        "dlink": "https://github.com/TraqVR/GorillaCounter/releases/download/gorillacounter/GorillaCounter.dll"
+    },
+    "geraldthecat": {
+        "name": "Gerald The Cat",
+        "ver": "v1.0.0",
+        "author": "TraqVR",
+        "dlink": "https://github.com/TraqVR/GeraldTheCat/releases/download/geraldthecat/GeraldTheCat.dll"
+    },
+    "emotionalsupport": {
+        "name": "EmotionalSupport",
+        "ver": "v1.0.0",
+        "author": "gabora",
+        "dlink": "https://github.com/aouradev/emotional-support/releases/download/1.0.2/EmotionalSupport.dll"
+    }
+}
