@@ -31,19 +31,19 @@
     },
         "gorillasteps": {
         "name": "Gorilla Steps",
-        "ver": "1.0.8,
+        "ver": "1.0.8",
         "author": "bjrsinge",
         "dlink": "https://github.com/bjrsinge/GorillaSteps/releases/download/v1.0.8/GorillaSteps.dll"
     },
         "colorhider": {
         "name": "Colour Hider",
-        "ver": "1.1.0,
+        "ver": "1.1.0",
         "author": "XenonOrSomething",
         "dlink": "https://github.com/XenonOrSomething/ColourHider/releases/download/v1.1.0-release/ColourHider.dll"
     },
         "yizzicameramod": {
         "name": "Yizzi Camera Mod",
-        "ver": "1.0.8,
+        "ver": "1.0.8",
         "author": "Yizzii",
         "dlink": "https://github.com/Yizzii/YizziCamModV2/releases/download/beta1.0.8/YizziCamModV2.dll"
     },
