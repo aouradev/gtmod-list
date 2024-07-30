@@ -1,55 +1,55 @@
 {
-  "maryPoppins": {
+  "marypoppins": {
     "name": "Mary Poppins",
-    "version": "v1.0.3",
+    "ver": "v1.0.3",
     "author": "meowscas",
     "dlink": "https://github.com/meowscas/Marry-Poppins-PC/releases/download/v1/MarryPoppinsPatch.dll"
   },
-  "comfyMonke": {
+  "comfymonke": {
     "name": "ComfyMonke",
-    "version": "v1.0.0",
+    "ver": "v1.0.0",
     "author": "gabora",
     "dlink": "https://github.com/aouradev/comfy-monke/releases/download/1.0.0/ComfyMonke.dll"
   },
-  "gorillaCounter": {
+  "gorillacounter": {
     "name": "GorillaCounter",
-    "version": "v1.0.0",
+    "ver": "v1.0.0",
     "author": "TraqVR",
     "dlink": "https://github.com/TraqVR/GorillaCounter/releases/download/gorillacounter/GorillaCounter.dll"
   },
-  "geraldTheCat": {
+  "geraldtheCat": {
     "name": "Gerald The Cat",
-    "version": "v1.0.0",
+    "ver": "v1.0.0",
     "author": "TraqVR",
     "dlink": "https://github.com/TraqVR/GeraldTheCat/releases/download/geraldthecat/GeraldTheCat.dll"
   },
-  "emotionalSupport": {
+  "emotionalsupport": {
     "name": "EmotionalSupport",
-    "version": "v1.0.0",
+    "ver": "v1.0.0",
     "author": "gabora",
     "dlink": "https://github.com/aouradev/emotional-support/releases/download/1.0.2/EmotionalSupport.dll"
   },
-  "gorillaSteps": {
+  "gorillasteps": {
     "name": "Gorilla Steps",
-    "version": "1.0.8",
+    "ver": "1.0.8",
     "author": "bjrsinge",
     "dlink": "https://github.com/bjrsinge/GorillaSteps/releases/download/v1.0.8/GorillaSteps.dll"
   },
-  "colorHider": {
+  "colorhider": {
     "name": "Colour Hider",
-    "version": "1.1.0",
+    "ver": "1.1.0",
     "author": "XenonOrSomething",
     "dlink": "https://github.com/XenonOrSomething/ColourHider/releases/download/v1.1.0-release/ColourHider.dll"
   },
-  "yizziCameraMod": {
+  "yizzicameramod": {
     "name": "Yizzi Camera Mod",
-    "version": "1.0.8",
+    "ver": "1.0.8",
     "author": "Yizzii",
     "dlink": "https://github.com/Yizzii/YizziCamModV2/releases/download/beta1.0.8/YizziCamModV2.dll"
   },
   "utilla": {
     "name": "Utilla",
-    "version": "1.6.14",
+    "ver": "1.6.14",
     "author": "legoandmars",
     "dlink": "https://github.com/aouradev/utilla-compiled/releases/download/1.0.0/Utilla.dll"
   }
